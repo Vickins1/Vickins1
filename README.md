@@ -38,7 +38,7 @@ We are always looking to collaborate on:
 
 ## 📫 How to Reach Us
 We’d love to hear from you! Contact us through the following channels:
-- **Email**: [kefini360@gmail.com](mailto:kefini360@gmail.com)
+- **Email**: [kefini360@gmail.com](mailto:vickinstechnologies@gmail.com)
 - **GitHub**: [@Vickins1](https://github.com/Vickins1)
 
 ---
