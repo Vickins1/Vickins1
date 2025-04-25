@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Welcome+to+Vickins+Technologies%21;We+shape+the+future+through+innovation.;Empowering+businesses+to+thrive+digitally." 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80%20Welcome%20to%20Vickins%20Technologies%21;We%20shape%20the%20future%20through%20innovation.;Empowering%20businesses%20to%20thrive%20digitally." 
     alt="Vickins Technologies Typing Animation" 
     style="max-width: 100%; height: auto;"
   />
