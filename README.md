@@ -1,6 +1,6 @@
-# 🚀 Vickins Technologies
-
-Welcome to **Vickins Technologies** — where we shape the future through innovation. We craft digital solutions that empower businesses and individuals to thrive in an ever-evolving digital landscape.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+Vickins+Technologies!;We+shape+the+future+through+innovation.;Empowering+businesses+to+thrive+digitally." alt="Vickins Technologies Typing Animation" />
+</p>
 
 ---
 
@@ -109,8 +109,15 @@ We're excited to work with:
 
 We’re here to build something amazing together. Reach out to start the conversation:
 
-- 📧 **Email**: [vickinstechnologies@gmail.com](mailto:vickinstechnologies@gmail.com)
-- 💻 **GitHub**: [@Vickins1](https://github.com/Vickins1)
+<p align="center">
+  <a href="mailto:vickinstechnologies@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vickinstechnologies@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://github.com/Vickins1">
+    <img src="https://img.shields.io/badge/GitHub-@Vickins1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</p>
+
 
 ---
 
