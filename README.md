@@ -1,11 +1,13 @@
 <div style="display: flex; justify-content: center; align-items: center; padding: 2rem;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80%20Ignite%20Your%20Future%20with%20Vickins%20Tech%21;Innovate.%20Create.%20Celebrate.; 
- Powering%20Your%20Digital%20Dreams%20to%20Reality." 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80%20Ignite%20Your%20Future%20with%20Vickins%20Tech%21;Innovate.%20Create.%20Celebrate.;Powering%20Your%20Digital%20Dreams%20to%20Reality." 
     alt="Vickins Technologies Creative Welcome Animation" 
-    style="max-width: 100%; height: auto; margin-top: 10px; padding-top: 5px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); border-radius: 12px;"
+    style="max-width: 100%; height: auto; margin-top: 10px; padding-top: 5px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); border-radius: 12px; transition: transform 0.3s ease-in-out;"
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
   />
 </div>
+
 
 ---
 
