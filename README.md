@@ -146,6 +146,7 @@ Follow our journey and get updates on projects and insights:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=The+best+way+to+predict+the+future+is+to+invent+it.+–+Alan+Kay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=The+best+way+to+predict+the+future+is+to+invent+it+-+Alan+Kay" alt="Typing SVG" />
 </p>
+
 
