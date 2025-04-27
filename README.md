@@ -8,6 +8,7 @@
   />
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=vickins1)
 
 ---
 
