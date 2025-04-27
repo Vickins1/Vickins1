@@ -168,7 +168,8 @@ Whether you’re an entrepreneur, a growing company, or a curious developer — 
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Innovation+distinguishes+between+a+leader+and+a+follower+-+Steve+Jobs" alt="Typing SVG" />
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #333; font-weight: bold; padding: 10px; background-color: #f4f4f4; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 90%; margin: auto;">
+  "Innovation distinguishes between a leader and a follower" – <strong>Steve Jobs</strong>
 </p>
+
 
