@@ -152,9 +152,10 @@ Whether you’re an entrepreneur, a growing company, or a curious developer — 
   <a href="https://github.com/Vickins1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://twitter.com/vickins_tech" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
+<a href="https://x.com/vickins_tech" target="_blank">
+  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
+</a>
+
   <a href="https://instagram.com/vickins.technologies" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
