@@ -148,10 +148,26 @@ Whether you’re an entrepreneur, a growing company, or a curious developer — 
 
 ### ⭐ Stay Connected
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vickins1)
+<p align="center">
+  <a href="https://github.com/Vickins1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://twitter.com/vickins_tech" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </a>
+  <a href="https://instagram.com/vickins.technologies" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="https://facebook.com/profile.php?id=61569016955138" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
+  <a href="https://wa.me/+254794501005" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=The+best+way+to+predict+the+future+is+to+invent+it+-+Alan+Kay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=The+best+way+to+predict+the+future+is+to+invent+it+-+Alan+Kay" alt="Typing SVG" />
 </p>
