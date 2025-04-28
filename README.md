@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; padding: 2rem;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=GREETINGS!%20WELCOME%20TO%20VICKINS%20TECHNOLOGIES" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=GREETINGS!%20WELCOME%20TO%20VICKINS%20TECHNOLOGIES." 
     alt="Vickins Technologies Welcome Animation" 
     style="max-width: 100%; height: auto; margin-top: 10px; padding-top: 5px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); border-radius: 12px; transition: transform 0.5s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
