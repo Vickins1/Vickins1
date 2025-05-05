@@ -80,24 +80,13 @@ We offer a comprehensive suite of technology services tailored to your unique ne
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
+### 📊 GitHub Stats
 
+![Vickins1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vickins1&show_icons=true&theme=dark&hide_border=true)
 
-## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Vickins1&theme=dark&hide_border=true)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; padding: 20px;">
-  <div style="flex: 1; max-width: 500px; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vickins1&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&title_color=38B2AC&text_color=FFFFFF&icon_color=61DAFB" alt="Vickins1's GitHub Stats" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
-  </div>
-  <div style="flex: 1; max-width: 500px; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickins1&layout=compact&theme=vue-dark&hide_border=true&title_color=38B2AC&text_color=FFFFFF&icon_color=61DAFB" alt="Vickins1's Top Languages" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center; padding: 20px;">
-  <div style="max-width: 500px; min-width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vickins1&theme=vue-dark&hide_border=true&background=1A2525&stroke=38B2AC&ring=61DAFB&fire=61DAFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38B2AC&sideLabels=FFFFFF" alt="Vickins1's Contribution Streak" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
-  </div>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickins1&layout=compact&theme=dark&hide_border=true)
 
 ---
 
