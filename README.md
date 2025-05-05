@@ -81,6 +81,20 @@ We offer a comprehensive suite of technology services tailored to your unique ne
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vickins1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vickins1's GitHub Stats" style="max-width: 100%; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickins1&layout=compact&theme=radical&hide_border=true" alt="Vickins1's Top Languages" style="max-width: 100%; margin: 10px;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vickins1&theme=radical&hide_border=true" alt="Vickins1's Contribution Streak" style="max-width: 100%; margin: 10px;" />
+</p>
+
+---
+
 ## 📈 Our Focus Areas
 
 We’re continuously learning and investing in the future of technology:
