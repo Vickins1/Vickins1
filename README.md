@@ -116,10 +116,10 @@ We're excited to work with:
 We’re here to build something amazing together. Reach out to start the conversation:
 
 <p align="center">
-  <a href="mailto:vickinstechnologies@gmail.com">
+  <a href="mailto:vickinstechnologies@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-vickinstechnologies@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://github.com/Vickins1">
+  <a href="https://github.com/Vickins1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@Vickins1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
