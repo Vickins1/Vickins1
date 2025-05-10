@@ -26,11 +26,13 @@ At **Vickins Technologies**, we're passionate about transforming ideas into impa
 
 We offer a comprehensive suite of technology services tailored to your unique needs:
 
-- 🔧 **Custom Software Development** – Scalable, efficient, and user-focused applications.
-- 🌐 **Web Development** – Modern, responsive, and secure websites.
-- 📱 **Mobile App Development** – Intuitive mobile apps for iOS and Android.
-- ☁️ **Cloud Solutions** – Cloud integration, deployment, and management services.
-- 🧠 **IT Consulting** – Strategic planning to align technology with business goals.
+- 🔧 **Custom Software Development** – Scalable, efficient, and user-focused applications.  
+- 🌐 **Web Development** – Modern, responsive, and secure websites.  
+- 📱 **Mobile App Development** – Intuitive mobile apps for iOS and Android.  
+- ☁️ **Cloud Solutions** – Cloud integration, deployment, and management services.  
+- 🧠 **IT Consulting** – Strategic planning to align technology with business goals.  
+- 🔗 **Blockchain Development** – Secure, decentralized applications (dApps), smart contracts, and blockchain integration.
+
 
 ---
 
