@@ -77,8 +77,6 @@ We offer a comprehensive suite of technology services tailored to your unique ne
 
 ### 📊 CI/CD & Monitoring
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
 ---
 ### 📊 GitHub Stats
 
