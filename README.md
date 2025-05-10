@@ -1,12 +1,16 @@
-<div style="display: flex; justify-content: center; align-items: center; padding: 2rem;">
+<!-- Google Fonts - Poppins -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+<div style="display: flex; justify-content: center; align-items: center; padding: 2rem; font-family: 'Poppins', sans-serif;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=GREETINGS!%20WELCOME%20TO%20VICKINS%20TECHNOLOGIES." 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=700&lines=GREETINGS!%20WELCOME%20TO%20VICKINS%20TECHNOLOGIES." 
     alt="Vickins Technologies Welcome Animation" 
     style="max-width: 100%; height: auto; margin-top: 10px; padding-top: 5px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); border-radius: 12px; transition: transform 0.7s ease-in-out;"
     onmouseover="this.style.transform='scale(1.05)'" 
     onmouseout="this.style.transform='scale(1)'"
   />
 </div>
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=vickins1)
 
