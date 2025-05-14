@@ -87,7 +87,7 @@ We offer a comprehensive suite of technology services tailored to your unique ne
 ### 📊 GitHub Stats
 
 ![Vickins1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vickins1&show_icons=true&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Vickins1&theme=tokyonight&hide_border=true)  
+![GitHub Streak Placeholder](https://img.shields.io/badge/GitHub_Streak-loading...-blueviolet?style=flat&logo=github) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickins1&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
