@@ -11,14 +11,13 @@
   />
 </div>
 
-
 ![Profile views](https://komarev.com/ghpvc/?username=vickins1)
 
 ---
 
 ## 🌟 About Us
 
-At **Vickins Technologies**, we're passionate about transforming ideas into impactful software. With a focus on **quality**, **security**, and **scalability**, we help startups, enterprises, and entrepreneurs leverage technology for growth and success.
+At **Vickins Technologies**, we're passionate about transforming ideas into impactful software. We focus on **quality**, **security**, and **scalability**, helping startups, enterprises, and entrepreneurs leverage technology for growth and success.
 
 ---
 
@@ -26,13 +25,12 @@ At **Vickins Technologies**, we're passionate about transforming ideas into impa
 
 We offer a comprehensive suite of technology services tailored to your unique needs:
 
-- 🔧 **Custom Software Development** – Scalable, efficient, and user-focused applications.  
-- 🌐 **Web Development** – Modern, responsive, and secure websites.  
-- 📱 **Mobile App Development** – Intuitive mobile apps for iOS and Android.  
-- ☁️ **Cloud Solutions** – Cloud integration, deployment, and management services.  
-- 🧠 **IT Consulting** – Strategic planning to align technology with business goals.  
-- 🔗 **Blockchain Development** – Secure, decentralized applications (dApps), smart contracts, and blockchain integration.
-
+- 🔧 **Custom Software Development** – Scalable, efficient, user-focused applications  
+- 🌐 **Web Development** – Modern, responsive, and secure websites  
+- 📱 **Mobile App Development** – Intuitive mobile apps for iOS and Android  
+- ☁️ **Cloud Solutions** – Cloud integration, deployment, and management  
+- 🧠 **IT Consulting** – Strategic planning to align technology with business goals  
+- 🔗 **Blockchain Development** – Secure dApps, smart contracts, and integrations  
 
 ---
 
@@ -83,10 +81,6 @@ We offer a comprehensive suite of technology services tailored to your unique ne
 
 ### 📊 CI/CD & Monitoring
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
----
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickins1&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -94,28 +88,26 @@ We offer a comprehensive suite of technology services tailored to your unique ne
 
 We’re continuously learning and investing in the future of technology:
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🔐 **Cybersecurity & Data Privacy**
-- 🔗 **Blockchain & Smart Contracts**
-- 🌐 **Internet of Things (IoT)**
+- 🤖 **Artificial Intelligence & Machine Learning**  
+- 🔐 **Cybersecurity & Data Privacy**  
+- 🔗 **Blockchain & Smart Contracts**  
+- 🌐 **Internet of Things (IoT)**  
 - 🚀 **DevOps & Agile Engineering**
 
 ---
 
 ## 🤝 Let's Collaborate
 
-We're excited to work with:
+We’re excited to work with:
 
-- 🚀 Startups launching bold new ideas  
-- 🏢 Businesses looking for digital transformation  
+- 🚀 Startup founders launching bold new ideas  
+- 🏢 Businesses undergoing digital transformation  
 - 🌍 Open-source projects with real-world impact  
-- 🎓 Aspiring developers seeking mentorship  
+- 🎓 Aspiring developers seeking mentorship
 
 ---
 
 ## 🔑 Core Values
-
-We believe in:
 
 - 🌟 **Innovation** – Creative solutions to real-world challenges  
 - 🛠 **Excellence** – Attention to detail and craftsmanship  
@@ -141,31 +133,51 @@ Join us on a journey to craft solutions that create **real-world impact**.
 > 🛠️ **Let’s code innovation. Let's scale dreams. Let's shape the future.**  
 > Together — with Vickins Technologies.
 
-🔗 [Visit Our Website »](https://vickins-technologies.onrender.com) &nbsp; 
+🔗 [Visit Our Website »](https://vickins-technologies.onrender.com)
 
 ---
 
-### ⭐ Stay Connected
+## ⭐ Stay Connected
 
 <p align="center">
   <a href="https://github.com/Vickins1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-<a href="https://x.com/vickins_tech" target="_blank">
-  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
-</a>
-
+  <a href="https://x.com/vickins_tech" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>
   <a href="https://instagram.com/vickins.technologies" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://facebook.com/profile.php?id=61569016955138" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://wa.me/+254794501005" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<!-- Overall GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Vickins1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickins1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vickins1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Vickins1&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+
+<!-- Optional: Wakatime (if you use it) -->
+<!--
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+-->
+
+</div>
