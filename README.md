@@ -172,12 +172,4 @@ Join us on a journey to craft solutions that create **real-world impact**.
 <!-- Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vickins1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Vickins1&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-
-<!-- Optional: Wakatime (if you use it) -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
--->
-
 </div>
